@@ -1,6 +1,6 @@
 # HAPPY BIRTHDAY WISH
 <br>
 <br>
-🛠️ Technologies Used:
+🛠️<b> Technologies Used:</b>
 <br>
 Frontend: HTML, CSS, JavaScript
