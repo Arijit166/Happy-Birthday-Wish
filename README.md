@@ -7,8 +7,10 @@ Frontend: HTML, CSS, JavaScript
 ⚙️ Installation:
 <br>
 Clone the repository:
+<br>
 git clone https://github.com/Arijit166/Happy-Birthday-Wish.git
 Navigate to the project directory:
+<br>
 cd Happy-Birthday-Wish
 
 Open your web browser and go to http://127.0.0.1:5500/index.html to access the application.
