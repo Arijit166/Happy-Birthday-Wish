@@ -9,6 +9,7 @@ Frontend: HTML, CSS, JavaScript
 Clone the repository:
 <br>
 git clone https://github.com/Arijit166/Happy-Birthday-Wish.git
+<br>
 Navigate to the project directory:
 <br>
 cd Happy-Birthday-Wish
